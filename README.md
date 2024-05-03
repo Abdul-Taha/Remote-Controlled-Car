@@ -11,5 +11,5 @@ I used PyGame for the keyboard input
 ### To create the body, I laser cut my design out of wood and screwed everything together. I added a mounting for a speaker as I have future plans of adding my chatbot to the robot. As for the wiring, I used some tutorials on how to interface with the motor controller I was using, the L298N.
 ## Issues
 ### The biggest issue I faced was power. Though I had a 7.4 V battery, I was unable to drive both motors. This could have implied several issues, but I decided to go with the straight-forward solution of attaching a more powerful battery. This was the cheapest solution, as I already had a 14.8 V Lipo battery on standby. Some other issues I had were implementing the driving functionality, as though I could make the basic functions to drive, but when I attached them to my keys, the program was unable to register multiple keys simultaneously, making for an unpleasant driving experience. Luckily, this was not too difficult to solve, and I have future plans to improve the controls.
+https://github.com/Abdul-Taha/Remote-Controlled-Car/assets/159376482/b459180e-b035-4571-98cb-0f3564dabfb4
 ## Demo
-
