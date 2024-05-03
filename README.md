@@ -13,3 +13,5 @@ I used PyGame for the keyboard input
 ### The biggest issue I faced was power. Though I had a 7.4 V battery, I was unable to drive both motors. This could have implied several issues, but I decided to go with the straight-forward solution of attaching a more powerful battery. This was the cheapest solution, as I already had a 14.8 V Lipo battery on standby. Some other issues I had were implementing the driving functionality, as though I could make the basic functions to drive, but when I attached them to my keys, the program was unable to register multiple keys simultaneously, making for an unpleasant driving experience. Luckily, this was not too difficult to solve, and I have future plans to improve the controls.
 https://github.com/Abdul-Taha/Remote-Controlled-Car/assets/159376482/b459180e-b035-4571-98cb-0f3564dabfb4
 ## Demo
+https://github.com/Abdul-Taha/Remote-Controlled-Car/assets/159376482/62d8f591-0682-4e2b-9efc-8ead270df75f
+
